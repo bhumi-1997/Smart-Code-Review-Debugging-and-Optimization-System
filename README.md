@@ -71,8 +71,6 @@ AI-Code-Review-Agent/
 │
 └── README.md
 ⚙️ Installation
-Clone Repository
-git clone https://github.com/your-username/AI-Code-Review-Agent.git
 
 cd AI-Code-Review-Agent
 Create Virtual Environment
@@ -99,7 +97,7 @@ or
 uvicorn main:app --reload
 Open:
 
-http://localhost:8000
+https://coderefine-zggu.onrender.com/
 📋 Workflow
 Enter source code.
 Select programming language.
